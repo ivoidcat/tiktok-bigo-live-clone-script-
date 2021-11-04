@@ -13,7 +13,7 @@ BogoLive直播程式，原生開發，直播、打賞、短視頻、動態、座
 
 Contact me:
 
-website: https://www.bogokj.com/
+website: http://www.bogokj.com/
 
 Wechat:![image-20211104105608065](http://imgurl.anbig.com/anbig/image-20211104105608065.png)
 
